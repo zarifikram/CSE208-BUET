@@ -1,0 +1,4 @@
+Cost of the minimum spanning tree : 3
+List of edges selected by Prim’s:{(0,1),(1,2)}
+Cost of the minimum spanning tree : 3
+List of edges selected by Kruskal's:{(0,1),(1,2)}
